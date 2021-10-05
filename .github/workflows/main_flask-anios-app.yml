@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'flask-anios-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FE148159F2404FCB8EFD7B2D0B48DC1A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9C278133BAC543BB8C437FC8C4A3A2C6 }}
